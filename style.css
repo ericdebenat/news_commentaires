@@ -1,0 +1,48 @@
+h1 {
+	text-align: center;
+}
+
+.titre {
+	margin-left: 30px;
+	width: 500px;	
+}
+
+.titre_billet {
+	text-align: center;
+	margin-left: 30px;
+	padding: 0px 10px 1px 10px;
+	width: 500px;
+	background-color: #222;
+	color: white;
+}
+
+.contenu_billet {
+	margin-left: 30px;
+	padding: 10px;
+	width: 500px;
+	background-color: #CCC;
+}
+
+.lien_commentaire {
+	margin-top: 5px;
+}
+
+h3 {
+	margin-bottom: 0;
+	font-size: 1rem;
+}
+
+a {
+	text-decoration: none;
+	font-style: italic;
+	color: blue;
+}
+
+.contenu_commentaire {
+	margin: 10px 0 15px 10px;
+}
+
+.com {
+	background-color: #DFDFDF;	
+}
+
